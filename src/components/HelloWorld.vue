@@ -18,7 +18,7 @@
               </div>
               <div class="col-lg-6 order-lg-1">
                 <div class="p-5">
-                  <h2 class="display-4">For those about to rock...</h2>
+                  <h2 class="display-4">Logos</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -36,7 +36,7 @@
               </div>
               <div class="col-lg-6">
                 <div class="p-5">
-                  <h2 class="display-4">We salute you!</h2>
+                  <h2 class="display-4">Colors</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -54,7 +54,7 @@
               </div>
               <div class="col-lg-6 order-lg-1">
                 <div class="p-5">
-                  <h2 class="display-4">Let there be rock!</h2>
+                  <h2 class="display-4">Fonts</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -72,7 +72,7 @@
               </div>
               <div class="col-lg-6">
                 <div class="p-5">
-                  <h2 class="display-4">We salute you!</h2>
+                  <h2 class="display-4">Imagery</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -90,7 +90,7 @@
               </div>
               <div class="col-lg-6 order-lg-1">
                 <div class="p-5">
-                  <h2 class="display-4">Let there be rock!</h2>
+                  <h2 class="display-4">Messages</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -108,7 +108,7 @@
               </div>
               <div class="col-lg-6">
                 <div class="p-5">
-                  <h2 class="display-4">We salute you!</h2>
+                  <h2 class="display-4">Marketing</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -126,7 +126,7 @@
               </div>
               <div class="col-lg-6 order-lg-1">
                 <div class="p-5">
-                  <h2 class="display-4">Let there be rock!</h2>
+                  <h2 class="display-4">Contact</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
                 </div>
               </div>
@@ -151,18 +151,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
-  font-weight: normal;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
+
 </style>

@@ -14,7 +14,7 @@
           <b-nav-item href="#colors"><a href="#colors" v-smooth-scroll>Colors</a></b-nav-item>
           <b-nav-item href="#fonts"><a href="#fonts" v-smooth-scroll>Fonts</a></b-nav-item>
           <b-nav-item href="#imagery"><a href="#imagery" v-smooth-scroll>Imagery</a></b-nav-item>
-          <b-nav-item href="#messages"><a href="#messages" v-smooth-scroll>Emotional Messages</a></b-nav-item>
+          <b-nav-item href="#messages"><a href="#messages" v-smooth-scroll>Messages</a></b-nav-item>
           <b-nav-item href="#marketing"><a href="#marketing" v-smooth-scroll>Marketing</a></b-nav-item>
           <b-nav-item href="#contact"><a href="#contact" v-smooth-scroll>Contact</a></b-nav-item>
         </b-navbar-nav>
